@@ -8,6 +8,7 @@ import org.json.simple.JSONObject;
 
 public class CreateJsonFile {
 
+	//create json file
 	public static void main(String[] args) {
 		JSONObject obj=new JSONObject();
         obj.put("name","sravani");
